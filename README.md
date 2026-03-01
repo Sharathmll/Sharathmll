@@ -1,4 +1,4 @@
-# Hi 👋 I'm Rekha
+# Hi 👋 I'm Sharath
 
 ## 🚀 About Me
 - 🎓 I am a student
