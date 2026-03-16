@@ -2,6 +2,7 @@
 
 ## 🚀 About Me
 - 🎓 I am a student
+- 🚀 I am a fast learner
 - 🎂 20 years old
 - 💻 Passionate learner in programming
 - 🐍 I have learned Python
